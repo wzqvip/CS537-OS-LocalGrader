@@ -1,0 +1,57 @@
+Total Number of Chars = 2342
+Total Unique Chars = 53
+
+Ascii Value: 10, Char: 
+, Count: 116, Initial Position: 15
+Ascii Value: 32, Char:  , Count: 330, Initial Position: 3
+Ascii Value: 33, Char: !, Count: 1, Initial Position: 112
+Ascii Value: 39, Char: ', Count: 10, Initial Position: 211
+Ascii Value: 44, Char: ,, Count: 12, Initial Position: 130
+Ascii Value: 45, Char: -, Count: 9, Initial Position: 417
+Ascii Value: 46, Char: ., Count: 9, Initial Position: 14
+Ascii Value: 58, Char: :, Count: 1, Initial Position: 582
+Ascii Value: 59, Char: ;, Count: 1, Initial Position: 336
+Ascii Value: 65, Char: A, Count: 17, Initial Position: 108
+Ascii Value: 66, Char: B, Count: 8, Initial Position: 881
+Ascii Value: 69, Char: E, Count: 1, Initial Position: 507
+Ascii Value: 70, Char: F, Count: 8, Initial Position: 1267
+Ascii Value: 71, Char: G, Count: 1, Initial Position: 1499
+Ascii Value: 72, Char: H, Count: 5, Initial Position: 4
+Ascii Value: 73, Char: I, Count: 11, Initial Position: 512
+Ascii Value: 75, Char: K, Count: 3, Initial Position: 397
+Ascii Value: 76, Char: L, Count: 6, Initial Position: 62
+Ascii Value: 77, Char: M, Count: 3, Initial Position: 11
+Ascii Value: 78, Char: N, Count: 3, Initial Position: 910
+Ascii Value: 79, Char: O, Count: 4, Initial Position: 114
+Ascii Value: 80, Char: P, Count: 2, Initial Position: 297
+Ascii Value: 82, Char: R, Count: 2, Initial Position: 405
+Ascii Value: 83, Char: S, Count: 7, Initial Position: 255
+Ascii Value: 84, Char: T, Count: 23, Initial Position: 0
+Ascii Value: 85, Char: U, Count: 1, Initial Position: 1105
+Ascii Value: 86, Char: V, Count: 1, Initial Position: 447
+Ascii Value: 87, Char: W, Count: 6, Initial Position: 17
+Ascii Value: 97, Char: a, Count: 113, Initial Position: 20
+Ascii Value: 98, Char: b, Count: 13, Initial Position: 223
+Ascii Value: 99, Char: c, Count: 34, Initial Position: 86
+Ascii Value: 100, Char: d, Count: 81, Initial Position: 56
+Ascii Value: 101, Char: e, Count: 282, Initial Position: 2
+Ascii Value: 102, Char: f, Count: 25, Initial Position: 53
+Ascii Value: 103, Char: g, Count: 41, Initial Position: 68
+Ascii Value: 104, Char: h, Count: 120, Initial Position: 1
+Ascii Value: 105, Char: i, Count: 121, Initial Position: 66
+Ascii Value: 106, Char: j, Count: 1, Initial Position: 1407
+Ascii Value: 107, Char: k, Count: 20, Initial Position: 226
+Ascii Value: 108, Char: l, Count: 69, Initial Position: 6
+Ascii Value: 109, Char: m, Count: 41, Initial Position: 35
+Ascii Value: 110, Char: n, Count: 128, Initial Position: 13
+Ascii Value: 111, Char: o, Count: 116, Initial Position: 5
+Ascii Value: 112, Char: p, Count: 30, Initial Position: 83
+Ascii Value: 113, Char: q, Count: 1, Initial Position: 161
+Ascii Value: 114, Char: r, Count: 109, Initial Position: 21
+Ascii Value: 115, Char: s, Count: 125, Initial Position: 50
+Ascii Value: 116, Char: t, Count: 153, Initial Position: 24
+Ascii Value: 117, Char: u, Count: 29, Initial Position: 52
+Ascii Value: 118, Char: v, Count: 14, Initial Position: 124
+Ascii Value: 119, Char: w, Count: 47, Initial Position: 9
+Ascii Value: 120, Char: x, Count: 1, Initial Position: 2086
+Ascii Value: 121, Char: y, Count: 27, Initial Position: 196

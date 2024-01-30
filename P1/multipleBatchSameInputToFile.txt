@@ -1,0 +1,6 @@
+-f hailstones.txt -o out24_1.txt -c -w -l -Lw -Ll
+-f hailstones.txt -o out24_2.txt -c
+-f hailstones.txt -o out24_3.txt -w
+-f hailstones.txt -o out24_4.txt -l
+-f hailstones.txt -o out24_5.txt -Lw
+-f hailstones.txt -o out24_6.txt -Ll

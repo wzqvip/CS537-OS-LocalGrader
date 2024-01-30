@@ -1,0 +1,1 @@
+cp `pwd`/tests-madcounter/hailstones.txt .; cp `pwd`/tests-madcounter/hollow.txt .; cp `pwd`/tests-madcounter/phenomenal.txt .; cp `pwd`/tests-madcounter/multipleBatchDiffInputToSTDOUT.txt .; ./MADCounter -B multipleBatchDiffInputToSTDOUT.txt;

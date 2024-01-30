@@ -1,0 +1,6 @@
+-f hailstones.txt -c -w -l -Lw -Ll
+-f hailstones.txt -c
+-f hailstones.txt -w
+-f hailstones.txt -l
+-f hailstones.txt -Lw
+-f hailstones.txt -Ll

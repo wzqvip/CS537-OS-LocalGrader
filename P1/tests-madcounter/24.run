@@ -1,0 +1,1 @@
+cp `pwd`/tests-madcounter/hailstones.txt .; cp `pwd`/tests-madcounter/multipleBatchSameInputToFile.txt .; ./MADCounter -B multipleBatchSameInputToFile.txt; cat out24_1.txt; cat out24_2.txt; cat out24_3.txt; cat out24_4.txt; cat out24_5.txt; cat out24_6.txt;

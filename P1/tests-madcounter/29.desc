@@ -1,0 +1,1 @@
+Batch mode w/errors- Should print errors and perform all analysis on lines with errors and print to STDOUT returning 0

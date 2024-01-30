@@ -1,0 +1,385 @@
+Total Number of Chars = 2342
+Total Unique Chars = 53
+
+Ascii Value: 10, Char: 
+, Count: 116, Initial Position: 15
+Ascii Value: 32, Char:  , Count: 330, Initial Position: 3
+Ascii Value: 33, Char: !, Count: 1, Initial Position: 112
+Ascii Value: 39, Char: ', Count: 10, Initial Position: 211
+Ascii Value: 44, Char: ,, Count: 12, Initial Position: 130
+Ascii Value: 45, Char: -, Count: 9, Initial Position: 417
+Ascii Value: 46, Char: ., Count: 9, Initial Position: 14
+Ascii Value: 58, Char: :, Count: 1, Initial Position: 582
+Ascii Value: 59, Char: ;, Count: 1, Initial Position: 336
+Ascii Value: 65, Char: A, Count: 17, Initial Position: 108
+Ascii Value: 66, Char: B, Count: 8, Initial Position: 881
+Ascii Value: 69, Char: E, Count: 1, Initial Position: 507
+Ascii Value: 70, Char: F, Count: 8, Initial Position: 1267
+Ascii Value: 71, Char: G, Count: 1, Initial Position: 1499
+Ascii Value: 72, Char: H, Count: 5, Initial Position: 4
+Ascii Value: 73, Char: I, Count: 11, Initial Position: 512
+Ascii Value: 75, Char: K, Count: 3, Initial Position: 397
+Ascii Value: 76, Char: L, Count: 6, Initial Position: 62
+Ascii Value: 77, Char: M, Count: 3, Initial Position: 11
+Ascii Value: 78, Char: N, Count: 3, Initial Position: 910
+Ascii Value: 79, Char: O, Count: 4, Initial Position: 114
+Ascii Value: 80, Char: P, Count: 2, Initial Position: 297
+Ascii Value: 82, Char: R, Count: 2, Initial Position: 405
+Ascii Value: 83, Char: S, Count: 7, Initial Position: 255
+Ascii Value: 84, Char: T, Count: 23, Initial Position: 0
+Ascii Value: 85, Char: U, Count: 1, Initial Position: 1105
+Ascii Value: 86, Char: V, Count: 1, Initial Position: 447
+Ascii Value: 87, Char: W, Count: 6, Initial Position: 17
+Ascii Value: 97, Char: a, Count: 113, Initial Position: 20
+Ascii Value: 98, Char: b, Count: 13, Initial Position: 223
+Ascii Value: 99, Char: c, Count: 34, Initial Position: 86
+Ascii Value: 100, Char: d, Count: 81, Initial Position: 56
+Ascii Value: 101, Char: e, Count: 282, Initial Position: 2
+Ascii Value: 102, Char: f, Count: 25, Initial Position: 53
+Ascii Value: 103, Char: g, Count: 41, Initial Position: 68
+Ascii Value: 104, Char: h, Count: 120, Initial Position: 1
+Ascii Value: 105, Char: i, Count: 121, Initial Position: 66
+Ascii Value: 106, Char: j, Count: 1, Initial Position: 1407
+Ascii Value: 107, Char: k, Count: 20, Initial Position: 226
+Ascii Value: 108, Char: l, Count: 69, Initial Position: 6
+Ascii Value: 109, Char: m, Count: 41, Initial Position: 35
+Ascii Value: 110, Char: n, Count: 128, Initial Position: 13
+Ascii Value: 111, Char: o, Count: 116, Initial Position: 5
+Ascii Value: 112, Char: p, Count: 30, Initial Position: 83
+Ascii Value: 113, Char: q, Count: 1, Initial Position: 161
+Ascii Value: 114, Char: r, Count: 109, Initial Position: 21
+Ascii Value: 115, Char: s, Count: 125, Initial Position: 50
+Ascii Value: 116, Char: t, Count: 153, Initial Position: 24
+Ascii Value: 117, Char: u, Count: 29, Initial Position: 52
+Ascii Value: 118, Char: v, Count: 14, Initial Position: 124
+Ascii Value: 119, Char: w, Count: 47, Initial Position: 9
+Ascii Value: 120, Char: x, Count: 1, Initial Position: 2086
+Ascii Value: 121, Char: y, Count: 27, Initial Position: 196
+
+Total Number of Words: 429
+Total Unique Words: 220
+
+Word: ---, Freq: 3, Initial Position: 70
+Word: Alas!, Freq: 1, Initial Position: 19
+Word: And, Freq: 9, Initial Position: 118
+Word: Are, Freq: 2, Initial Position: 27
+Word: As, Freq: 3, Initial Position: 31
+Word: At, Freq: 2, Initial Position: 216
+Word: Behaving, Freq: 1, Initial Position: 158
+Word: Between, Freq: 7, Initial Position: 326
+Word: Eyes, Freq: 1, Initial Position: 89
+Word: Falls, Freq: 3, Initial Position: 338
+Word: For, Freq: 4, Initial Position: 341
+Word: Form, Freq: 1, Initial Position: 229
+Word: Gathered, Freq: 1, Initial Position: 273
+Word: Headpiece, Freq: 1, Initial Position: 15
+Word: Here, Freq: 3, Initial Position: 183
+Word: Hollow, Freq: 1, Initial Position: 1
+Word: I, Freq: 1, Initial Position: 90
+Word: In, Freq: 9, Initial Position: 96
+Word: Is, Freq: 1, Initial Position: 206
+Word: Kingdom, Freq: 3, Initial Position: 67
+Word: Leaning, Freq: 1, Initial Position: 13
+Word: Let, Freq: 2, Initial Position: 134
+Word: Life, Freq: 2, Initial Position: 361
+Word: Lips, Freq: 1, Initial Position: 225
+Word: Men., Freq: 1, Initial Position: 2
+Word: More, Freq: 1, Initial Position: 125
+Word: Multifoliate, Freq: 1, Initial Position: 290
+Word: No, Freq: 1, Initial Position: 163
+Word: Not, Freq: 2, Initial Position: 166
+Word: Of, Freq: 2, Initial Position: 292
+Word: Or, Freq: 1, Initial Position: 36
+Word: Our, Freq: 1, Initial Position: 20
+Word: Paralysed, Freq: 1, Initial Position: 52
+Word: Prickly, Freq: 1, Initial Position: 309
+Word: Rat's, Freq: 1, Initial Position: 150
+Word: Remember, Freq: 1, Initial Position: 68
+Word: Shadow, Freq: 3, Initial Position: 340
+Word: Shape, Freq: 1, Initial Position: 46
+Word: Sightless,, Freq: 1, Initial Position: 281
+Word: Such, Freq: 1, Initial Position: 147
+Word: Sunlight, Freq: 1, Initial Position: 108
+Word: Than, Freq: 1, Initial Position: 130
+Word: The, Freq: 6, Initial Position: 0
+Word: There, Freq: 1, Initial Position: 239
+Word: There,, Freq: 2, Initial Position: 104
+Word: These, Freq: 1, Initial Position: 100
+Word: Thine, Freq: 4, Initial Position: 342
+Word: This, Freq: 6, Initial Position: 174
+Word: Those, Freq: 1, Initial Position: 57
+Word: Trembling, Freq: 1, Initial Position: 222
+Word: Under, Freq: 1, Initial Position: 199
+Word: Violent, Freq: 1, Initial Position: 78
+Word: Waking, Freq: 1, Initial Position: 214
+Word: We, Freq: 4, Initial Position: 3
+Word: With, Freq: 1, Initial Position: 61
+Word: a, Freq: 8, Initial Position: 110
+Word: act, Freq: 1, Initial Position: 337
+Word: all, Freq: 1, Initial Position: 73
+Word: alone, Freq: 1, Initial Position: 215
+Word: also, Freq: 1, Initial Position: 145
+Word: and, Freq: 2, Initial Position: 29
+Word: appear:, Freq: 1, Initial Position: 103
+Word: are, Freq: 7, Initial Position: 4
+Word: around, Freq: 2, Initial Position: 305
+Word: as, Freq: 2, Initial Position: 76
+Word: at, Freq: 1, Initial Position: 72
+Word: avoid, Freq: 1, Initial Position: 271
+Word: bang, Freq: 1, Initial Position: 424
+Word: be, Freq: 1, Initial Position: 136
+Word: beach, Freq: 1, Initial Position: 276
+Word: behaves, Freq: 1, Initial Position: 162
+Word: broken, Freq: 4, Initial Position: 40
+Word: but, Freq: 2, Initial Position: 80
+Word: cactus, Freq: 1, Initial Position: 181
+Word: cellar, Freq: 1, Initial Position: 45
+Word: coat,, Freq: 1, Initial Position: 151
+Word: colour,, Freq: 1, Initial Position: 51
+Word: column, Freq: 1, Initial Position: 112
+Word: conception, Freq: 1, Initial Position: 348
+Word: creation, Freq: 1, Initial Position: 351
+Word: crossed, Freq: 2, Initial Position: 60
+Word: crowskin,, Freq: 1, Initial Position: 152
+Word: dare, Freq: 1, Initial Position: 91
+Word: dead, Freq: 2, Initial Position: 177
+Word: death's, Freq: 5, Initial Position: 65
+Word: deliberate, Freq: 1, Initial Position: 148
+Word: descent, Freq: 1, Initial Position: 382
+Word: desire, Freq: 1, Initial Position: 367
+Word: direct, Freq: 1, Initial Position: 62
+Word: disguises, Freq: 1, Initial Position: 149
+Word: distant, Freq: 1, Initial Position: 126
+Word: do, Freq: 1, Initial Position: 101
+Word: dream, Freq: 2, Initial Position: 98
+Word: dreams, Freq: 1, Initial Position: 95
+Word: dried, Freq: 1, Initial Position: 21
+Word: dry, Freq: 2, Initial Position: 34
+Word: dying, Freq: 1, Initial Position: 248
+Word: emotion, Freq: 1, Initial Position: 354
+Word: empty, Freq: 1, Initial Position: 300
+Word: ends, Freq: 3, Initial Position: 406
+Word: essence, Freq: 1, Initial Position: 379
+Word: existence, Freq: 1, Initial Position: 376
+Word: eyes, Freq: 4, Initial Position: 106
+Word: eyes,, Freq: 1, Initial Position: 63
+Word: fading, Freq: 2, Initial Position: 132
+Word: feet, Freq: 1, Initial Position: 38
+Word: field, Freq: 1, Initial Position: 157
+Word: filled, Freq: 1, Initial Position: 16
+Word: final, Freq: 1, Initial Position: 168
+Word: five, Freq: 1, Initial Position: 321
+Word: force,, Freq: 1, Initial Position: 53
+Word: form,, Freq: 1, Initial Position: 48
+Word: gesture, Freq: 1, Initial Position: 54
+Word: glass, Freq: 1, Initial Position: 41
+Word: go, Freq: 2, Initial Position: 304
+Word: grass, Freq: 1, Initial Position: 35
+Word: grope, Freq: 1, Initial Position: 268
+Word: hand, Freq: 1, Initial Position: 198
+Word: have, Freq: 1, Initial Position: 59
+Word: here, Freq: 3, Initial Position: 189
+Word: hollow, Freq: 3, Initial Position: 6
+Word: hope, Freq: 1, Initial Position: 297
+Word: hour, Freq: 1, Initial Position: 218
+Word: idea, Freq: 1, Initial Position: 328
+Word: if, Freq: 1, Initial Position: 71
+Word: images, Freq: 1, Initial Position: 186
+Word: in, Freq: 4, Initial Position: 33
+Word: is, Freq: 12, Initial Position: 114
+Word: it, Freq: 1, Initial Position: 207
+Word: jaw, Freq: 1, Initial Position: 256
+Word: kingdom, Freq: 5, Initial Position: 99
+Word: kingdoms, Freq: 1, Initial Position: 260
+Word: kiss, Freq: 1, Initial Position: 228
+Word: land, Freq: 2, Initial Position: 178
+Word: last, Freq: 1, Initial Position: 263
+Word: like, Freq: 1, Initial Position: 208
+Word: long, Freq: 1, Initial Position: 364
+Word: lost, Freq: 2, Initial Position: 77
+Word: man's, Freq: 1, Initial Position: 197
+Word: me, Freq: 2, Initial Position: 135
+Word: meaningless, Freq: 1, Initial Position: 30
+Word: meet, Freq: 1, Initial Position: 93
+Word: meeting, Freq: 2, Initial Position: 169
+Word: men, Freq: 3, Initial Position: 7
+Word: men., Freq: 2, Initial Position: 88
+Word: more, Freq: 1, Initial Position: 128
+Word: morning., Freq: 1, Initial Position: 325
+Word: motion, Freq: 1, Initial Position: 334
+Word: motion;, Freq: 1, Initial Position: 56
+Word: nearer, Freq: 2, Initial Position: 138
+Word: no, Freq: 2, Initial Position: 137
+Word: not, Freq: 4, Initial Position: 75
+Word: o'clock, Freq: 1, Initial Position: 322
+Word: of, Freq: 6, Initial Position: 194
+Word: on, Freq: 2, Initial Position: 109
+Word: only, Freq: 2, Initial Position: 81
+Word: other, Freq: 2, Initial Position: 66
+Word: our, Freq: 2, Initial Position: 43
+Word: over, Freq: 1, Initial Position: 39
+Word: pear, Freq: 4, Initial Position: 308
+Word: perpetual, Freq: 1, Initial Position: 288
+Word: places, Freq: 1, Initial Position: 266
+Word: potency, Freq: 1, Initial Position: 373
+Word: prayers, Freq: 1, Initial Position: 230
+Word: prickly, Freq: 3, Initial Position: 307
+Word: quiet, Freq: 1, Initial Position: 28
+Word: raised,, Freq: 1, Initial Position: 188
+Word: rats', Freq: 1, Initial Position: 37
+Word: reality, Freq: 1, Initial Position: 331
+Word: reappear, Freq: 1, Initial Position: 285
+Word: receive, Freq: 1, Initial Position: 191
+Word: response, Freq: 1, Initial Position: 357
+Word: river, Freq: 1, Initial Position: 280
+Word: rose, Freq: 1, Initial Position: 291
+Word: shade, Freq: 1, Initial Position: 49
+Word: singing, Freq: 1, Initial Position: 124
+Word: solemn, Freq: 1, Initial Position: 129
+Word: souls,, Freq: 1, Initial Position: 79
+Word: spasm, Freq: 1, Initial Position: 370
+Word: speech, Freq: 1, Initial Position: 272
+Word: star, Freq: 1, Initial Position: 289
+Word: star., Freq: 2, Initial Position: 133
+Word: stars, Freq: 1, Initial Position: 249
+Word: staves, Freq: 1, Initial Position: 154
+Word: stone, Freq: 1, Initial Position: 185
+Word: stone., Freq: 1, Initial Position: 233
+Word: straw., Freq: 1, Initial Position: 18
+Word: stuffed, Freq: 2, Initial Position: 11
+Word: supplication, Freq: 1, Initial Position: 193
+Word: swinging, Freq: 1, Initial Position: 117
+Word: tenderness, Freq: 1, Initial Position: 224
+Word: that, Freq: 2, Initial Position: 167
+Word: the, Freq: 42, Initial Position: 5
+Word: they, Freq: 1, Initial Position: 190
+Word: this, Freq: 5, Initial Position: 209
+Word: to, Freq: 2, Initial Position: 64
+Word: together, Freq: 3, Initial Position: 14
+Word: tree, Freq: 1, Initial Position: 116
+Word: tumid, Freq: 1, Initial Position: 279
+Word: twilight, Freq: 2, Initial Position: 172
+Word: twinkle, Freq: 1, Initial Position: 201
+Word: unless, Freq: 1, Initial Position: 282
+Word: us, Freq: 1, Initial Position: 69
+Word: valley, Freq: 2, Initial Position: 246
+Word: very, Freq: 1, Initial Position: 363
+Word: voices, Freq: 1, Initial Position: 119
+Word: voices,, Freq: 1, Initial Position: 22
+Word: way, Freq: 3, Initial Position: 403
+Word: we, Freq: 3, Initial Position: 220
+Word: wear, Freq: 1, Initial Position: 146
+Word: when, Freq: 2, Initial Position: 23
+Word: whimper., Freq: 1, Initial Position: 428
+Word: whisper, Freq: 1, Initial Position: 25
+Word: who, Freq: 1, Initial Position: 58
+Word: wind, Freq: 2, Initial Position: 32
+Word: wind's, Freq: 1, Initial Position: 123
+Word: with, Freq: 4, Initial Position: 17
+Word: without, Freq: 3, Initial Position: 47
+Word: world, Freq: 3, Initial Position: 405
+Word: would, Freq: 1, Initial Position: 227
+
+Total Number of Lines: 116
+Total Unique Lines: 93
+
+Line: , Freq: 17, Initial Position: 1
+Line: And avoid speech, Freq: 1, Initial Position: 69
+Line: And the act, Freq: 1, Initial Position: 88
+Line: And the creation, Freq: 1, Initial Position: 93
+Line: And the descent, Freq: 1, Initial Position: 104
+Line: And the existence, Freq: 1, Initial Position: 102
+Line: And the reality, Freq: 1, Initial Position: 86
+Line: And the response, Freq: 1, Initial Position: 95
+Line: And the spasm, Freq: 1, Initial Position: 100
+Line: And voices are, Freq: 1, Initial Position: 29
+Line: Are quiet and meaningless, Freq: 1, Initial Position: 8
+Line: Are raised, here they receive, Freq: 1, Initial Position: 49
+Line: As the hollow men, Freq: 1, Initial Position: 20
+Line: As the perpetual star, Freq: 1, Initial Position: 74
+Line: As wind in dry grass, Freq: 1, Initial Position: 9
+Line: At five o'clock in the morning., Freq: 1, Initial Position: 83
+Line: At the hour when we are, Freq: 1, Initial Position: 56
+Line: Behaving as the wind behaves, Freq: 1, Initial Position: 40
+Line: Between the conception, Freq: 1, Initial Position: 92
+Line: Between the desire, Freq: 1, Initial Position: 99
+Line: Between the emotion, Freq: 1, Initial Position: 94
+Line: Between the essence, Freq: 1, Initial Position: 103
+Line: Between the idea, Freq: 1, Initial Position: 85
+Line: Between the motion, Freq: 1, Initial Position: 87
+Line: Between the potency, Freq: 1, Initial Position: 101
+Line: Eyes I dare not meet in dreams, Freq: 1, Initial Position: 23
+Line: Falls the Shadow, Freq: 3, Initial Position: 89
+Line: For Thine is, Freq: 1, Initial Position: 108
+Line: For Thine is the, Freq: 1, Initial Position: 110
+Line: For Thine is the Kingdom, Freq: 2, Initial Position: 90
+Line: Form prayers to broken stone., Freq: 1, Initial Position: 59
+Line: Gathered on this beach of the tumid river, Freq: 1, Initial Position: 70
+Line: Headpiece filled with straw. Alas!, Freq: 1, Initial Position: 5
+Line: Here the stone images, Freq: 1, Initial Position: 48
+Line: Here we go around the prickly pear, Freq: 2, Initial Position: 80
+Line: In a field, Freq: 1, Initial Position: 39
+Line: In death's dream kingdom, Freq: 2, Initial Position: 24
+Line: In death's other kingdom, Freq: 1, Initial Position: 54
+Line: In the twilight kingdom, Freq: 1, Initial Position: 44
+Line: In the wind's singing, Freq: 1, Initial Position: 30
+Line: In this hollow valley, Freq: 1, Initial Position: 64
+Line: In this last of meeting places, Freq: 1, Initial Position: 67
+Line: In this valley of dying stars, Freq: 1, Initial Position: 63
+Line: Is it like this, Freq: 1, Initial Position: 53
+Line: Leaning together, Freq: 1, Initial Position: 4
+Line: Let me also wear, Freq: 1, Initial Position: 36
+Line: Let me be no nearer, Freq: 1, Initial Position: 34
+Line: Life is, Freq: 1, Initial Position: 109
+Line: Life is very long, Freq: 1, Initial Position: 97
+Line: Lips that would kiss, Freq: 1, Initial Position: 58
+Line: More distant and more solemn, Freq: 1, Initial Position: 31
+Line: Multifoliate rose, Freq: 1, Initial Position: 75
+Line: No nearer ---, Freq: 1, Initial Position: 41
+Line: Not that final meeting, Freq: 1, Initial Position: 43
+Line: Not with a bang but with a whimper., Freq: 1, Initial Position: 115
+Line: Of death's twilight kingdom, Freq: 1, Initial Position: 76
+Line: Of empty men., Freq: 1, Initial Position: 78
+Line: Or rats' feet over broken glass, Freq: 1, Initial Position: 10
+Line: Our dried voices, when, Freq: 1, Initial Position: 6
+Line: Paralysed force, gesture without motion;, Freq: 1, Initial Position: 14
+Line: Prickly pear prickly pear, Freq: 1, Initial Position: 81
+Line: Rat's coat, crowskin, crossed staves, Freq: 1, Initial Position: 38
+Line: Remember us --- if at all --- not as lost, Freq: 1, Initial Position: 18
+Line: Shape without form, shade without colour,, Freq: 1, Initial Position: 13
+Line: Sightless, unless, Freq: 1, Initial Position: 72
+Line: Such deliberate disguises, Freq: 1, Initial Position: 37
+Line: Sunlight on a broken column, Freq: 1, Initial Position: 27
+Line: Than a fading star., Freq: 1, Initial Position: 32
+Line: The Hollow Men., Freq: 1, Initial Position: 0
+Line: The eyes are not here, Freq: 1, Initial Position: 61
+Line: The eyes reappear, Freq: 1, Initial Position: 73
+Line: The hope only, Freq: 1, Initial Position: 77
+Line: The stuffed men., Freq: 1, Initial Position: 21
+Line: The supplication of a dead man's hand, Freq: 1, Initial Position: 50
+Line: There are no eyes here, Freq: 1, Initial Position: 62
+Line: There, is a tree swinging, Freq: 1, Initial Position: 28
+Line: There, the eyes are, Freq: 1, Initial Position: 26
+Line: These do not appear:, Freq: 1, Initial Position: 25
+Line: This broken jaw of our lost kingdoms, Freq: 1, Initial Position: 65
+Line: This is cactus land, Freq: 1, Initial Position: 47
+Line: This is the dead land, Freq: 1, Initial Position: 46
+Line: This is the way the world ends, Freq: 3, Initial Position: 112
+Line: Those who have crossed, Freq: 1, Initial Position: 16
+Line: Trembling with tenderness, Freq: 1, Initial Position: 57
+Line: Under the twinkle of a fading star., Freq: 1, Initial Position: 51
+Line: Violent souls, but only, Freq: 1, Initial Position: 19
+Line: Waking alone, Freq: 1, Initial Position: 55
+Line: We are the hollow men, Freq: 1, Initial Position: 2
+Line: We are the stuffed men, Freq: 1, Initial Position: 3
+Line: We grope together, Freq: 1, Initial Position: 68
+Line: We whisper together, Freq: 1, Initial Position: 7
+Line: With direct eyes, to death's other Kingdom, Freq: 1, Initial Position: 17
+Line: in our dry cellar, Freq: 1, Initial Position: 11
+
+Longest Word is 12 characters long:
+	Multifoliate
+	supplication
+
+Longest Line is 42 characters long:
+	With direct eyes, to death's other Kingdom

@@ -1,0 +1,4 @@
+USAGE:
+	./MADCounter -f <input file> -o <output file> -c -w -l -Lw -Ll
+		OR
+	./MADCounter -B <batch file>

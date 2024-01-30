@@ -1,0 +1,1 @@
+cp `pwd`/tests-madcounter/singlelw.txt .; ./MADCounter -f singlelw.txt -Lw;

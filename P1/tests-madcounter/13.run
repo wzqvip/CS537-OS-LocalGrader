@@ -1,0 +1,1 @@
+cp `pwd`/tests-madcounter/phenomenal.txt .; ./MADCounter -f phenomenal.txt -l;

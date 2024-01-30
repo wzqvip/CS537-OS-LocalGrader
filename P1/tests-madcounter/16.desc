@@ -1,0 +1,1 @@
+Correct all analysis types to STDOUT- should perform all analysis and print to STDOUT returning 0

@@ -1,0 +1,1 @@
+cp `pwd`/tests-madcounter/multipleLl.txt .; ./MADCounter -f multipleLl.txt -Ll;

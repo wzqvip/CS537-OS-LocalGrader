@@ -1,0 +1,1 @@
+Correct all analysis types to output file- should perform all analysis and print to output file returning 0

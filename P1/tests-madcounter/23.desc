@@ -1,0 +1,1 @@
+Correct batch mode w/Single line- should perform all analysis and print to STDOUT returning 0

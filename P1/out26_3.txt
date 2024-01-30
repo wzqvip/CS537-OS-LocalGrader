@@ -1,0 +1,249 @@
+Total Number of Chars = 1363
+Total Unique Chars = 41
+
+Ascii Value: 10, Char: 
+, Count: 67, Initial Position: 16
+Ascii Value: 32, Char:  , Count: 259, Initial Position: 10
+Ascii Value: 39, Char: ', Count: 20, Initial Position: 75
+Ascii Value: 44, Char: ,, Count: 24, Initial Position: 157
+Ascii Value: 46, Char: ., Count: 21, Initial Position: 71
+Ascii Value: 65, Char: A, Count: 5, Initial Position: 22
+Ascii Value: 66, Char: B, Count: 2, Initial Position: 128
+Ascii Value: 67, Char: C, Count: 1, Initial Position: 1299
+Ascii Value: 70, Char: F, Count: 1, Initial Position: 442
+Ascii Value: 73, Char: I, Count: 19, Initial Position: 74
+Ascii Value: 74, Char: J, Count: 2, Initial Position: 376
+Ascii Value: 77, Char: M, Count: 3, Initial Position: 17
+Ascii Value: 78, Char: N, Count: 1, Initial Position: 1030
+Ascii Value: 79, Char: O, Count: 1, Initial Position: 1110
+Ascii Value: 80, Char: P, Count: 10, Initial Position: 0
+Ascii Value: 84, Char: T, Count: 18, Initial Position: 160
+Ascii Value: 87, Char: W, Count: 4, Initial Position: 11
+Ascii Value: 97, Char: a, Count: 73, Initial Position: 8
+Ascii Value: 98, Char: b, Count: 7, Initial Position: 90
+Ascii Value: 99, Char: c, Count: 15, Initial Position: 62
+Ascii Value: 100, Char: d, Count: 22, Initial Position: 47
+Ascii Value: 101, Char: e, Count: 123, Initial Position: 2
+Ascii Value: 102, Char: f, Count: 19, Initial Position: 106
+Ascii Value: 103, Char: g, Count: 6, Initial Position: 24
+Ascii Value: 104, Char: h, Count: 68, Initial Position: 1
+Ascii Value: 105, Char: i, Count: 31, Initial Position: 68
+Ascii Value: 106, Char: j, Count: 2, Initial Position: 615
+Ascii Value: 107, Char: k, Count: 7, Initial Position: 169
+Ascii Value: 108, Char: l, Count: 43, Initial Position: 9
+Ascii Value: 109, Char: m, Count: 64, Initial Position: 5
+Ascii Value: 110, Char: n, Count: 73, Initial Position: 3
+Ascii Value: 111, Char: o, Count: 75, Initial Position: 4
+Ascii Value: 112, Char: p, Count: 9, Initial Position: 233
+Ascii Value: 114, Char: r, Count: 32, Initial Position: 32
+Ascii Value: 115, Char: s, Count: 62, Initial Position: 60
+Ascii Value: 116, Char: t, Count: 71, Initial Position: 34
+Ascii Value: 117, Char: u, Count: 25, Initial Position: 28
+Ascii Value: 118, Char: v, Count: 4, Initial Position: 501
+Ascii Value: 119, Char: w, Count: 23, Initial Position: 38
+Ascii Value: 121, Char: y, Count: 50, Initial Position: 19
+Ascii Value: 122, Char: z, Count: 1, Initial Position: 124
+
+Total Number of Words: 262
+Total Unique Words: 140
+
+Word: 'Cause, Freq: 1, Initial Position: 253
+Word: A, Freq: 1, Initial Position: 95
+Word: And, Freq: 3, Initial Position: 77
+Word: Angelou, Freq: 1, Initial Position: 3
+Word: But, Freq: 2, Initial Position: 22
+Word: Fall, Freq: 1, Initial Position: 85
+Word: I, Freq: 8, Initial Position: 24
+Word: I'm, Freq: 6, Initial Position: 11
+Word: It, Freq: 1, Initial Position: 223
+Word: It's, Freq: 4, Initial Position: 36
+Word: Just, Freq: 2, Initial Position: 71
+Word: Maya, Freq: 1, Initial Position: 2
+Word: Men, Freq: 1, Initial Position: 133
+Word: My, Freq: 1, Initial Position: 150
+Word: Now, Freq: 1, Initial Position: 197
+Word: Or, Freq: 1, Initial Position: 212
+Word: Phenomenal, Freq: 5, Initial Position: 0
+Word: Phenomenally., Freq: 4, Initial Position: 61
+Word: Pretty, Freq: 1, Initial Position: 4
+Word: That's, Freq: 4, Initial Position: 64
+Word: The, Freq: 10, Initial Position: 43
+Word: Then, Freq: 1, Initial Position: 90
+Word: They, Freq: 3, Initial Position: 29
+Word: What, Freq: 1, Initial Position: 137
+Word: When, Freq: 2, Initial Position: 153
+Word: Woman, Freq: 1, Initial Position: 1
+Word: a, Freq: 7, Initial Position: 18
+Word: about, Freq: 1, Initial Position: 211
+Word: arch, Freq: 1, Initial Position: 170
+Word: arms, Freq: 1, Initial Position: 42
+Word: around, Freq: 1, Initial Position: 93
+Word: as, Freq: 2, Initial Position: 72
+Word: back,, Freq: 1, Initial Position: 173
+Word: bees., Freq: 1, Initial Position: 99
+Word: bend, Freq: 1, Initial Position: 239
+Word: bowed., Freq: 1, Initial Position: 205
+Word: breasts,, Freq: 1, Initial Position: 183
+Word: built, Freq: 1, Initial Position: 15
+Word: can't, Freq: 2, Initial Position: 148
+Word: care,, Freq: 1, Initial Position: 252
+Word: click, Freq: 1, Initial Position: 234
+Word: cool, Freq: 1, Initial Position: 73
+Word: curl, Freq: 1, Initial Position: 54
+Word: cute, Freq: 1, Initial Position: 13
+Word: don't, Freq: 1, Initial Position: 207
+Word: down, Freq: 1, Initial Position: 86
+Word: eyes,, Freq: 1, Initial Position: 107
+Word: fashion, Freq: 1, Initial Position: 19
+Word: feet., Freq: 1, Initial Position: 124
+Word: fellows, Freq: 1, Initial Position: 82
+Word: fire, Freq: 1, Initial Position: 104
+Word: flash, Freq: 1, Initial Position: 110
+Word: grace, Freq: 1, Initial Position: 185
+Word: hair,, Freq: 1, Initial Position: 242
+Word: hand,, Freq: 1, Initial Position: 247
+Word: have, Freq: 2, Initial Position: 135
+Word: head's, Freq: 1, Initial Position: 203
+Word: heels,, Freq: 1, Initial Position: 237
+Word: hips,, Freq: 1, Initial Position: 47
+Word: hive, Freq: 1, Initial Position: 96
+Word: honey, Freq: 1, Initial Position: 98
+Word: in, Freq: 7, Initial Position: 37
+Word: inner, Freq: 1, Initial Position: 151
+Word: into, Freq: 1, Initial Position: 68
+Word: joy, Freq: 1, Initial Position: 121
+Word: jump, Freq: 1, Initial Position: 210
+Word: knees., Freq: 1, Initial Position: 89
+Word: lies., Freq: 2, Initial Position: 10
+Word: lips., Freq: 1, Initial Position: 57
+Word: loud., Freq: 1, Initial Position: 217
+Word: make, Freq: 1, Initial Position: 226
+Word: man,, Freq: 1, Initial Position: 80
+Word: me, Freq: 1, Initial Position: 221
+Word: me,, Freq: 1, Initial Position: 94
+Word: me., Freq: 5, Initial Position: 65
+Word: model's, Freq: 1, Initial Position: 20
+Word: much, Freq: 1, Initial Position: 145
+Word: my, Freq: 18, Initial Position: 8
+Word: mystery., Freq: 1, Initial Position: 152
+Word: need, Freq: 1, Initial Position: 249
+Word: not, Freq: 2, Initial Position: 12
+Word: of, Freq: 14, Initial Position: 40
+Word: on, Freq: 1, Initial Position: 87
+Word: or, Freq: 3, Initial Position: 14
+Word: ought, Freq: 1, Initial Position: 224
+Word: palm, Freq: 1, Initial Position: 244
+Word: passing, Freq: 1, Initial Position: 222
+Word: please,, Freq: 1, Initial Position: 76
+Word: proud., Freq: 1, Initial Position: 228
+Word: reach, Freq: 1, Initial Position: 39
+Word: real, Freq: 1, Initial Position: 216
+Word: ride, Freq: 1, Initial Position: 180
+Word: room, Freq: 1, Initial Position: 70
+Word: say, Freq: 1, Initial Position: 160
+Word: say,, Freq: 4, Initial Position: 35
+Word: secret, Freq: 1, Initial Position: 9
+Word: see, Freq: 2, Initial Position: 139
+Word: see., Freq: 1, Initial Position: 164
+Word: shout, Freq: 1, Initial Position: 208
+Word: show, Freq: 1, Initial Position: 157
+Word: size, Freq: 1, Initial Position: 21
+Word: smile,, Freq: 1, Initial Position: 178
+Word: so, Freq: 1, Initial Position: 144
+Word: span, Freq: 1, Initial Position: 44
+Word: stand, Freq: 1, Initial Position: 83
+Word: start, Freq: 1, Initial Position: 25
+Word: step,, Freq: 1, Initial Position: 52
+Word: still, Freq: 1, Initial Position: 162
+Word: stride, Freq: 1, Initial Position: 49
+Word: style., Freq: 1, Initial Position: 188
+Word: suit, Freq: 1, Initial Position: 17
+Word: sun, Freq: 1, Initial Position: 175
+Word: swarm, Freq: 1, Initial Position: 92
+Word: swing, Freq: 1, Initial Position: 115
+Word: talk, Freq: 1, Initial Position: 215
+Word: teeth,, Freq: 1, Initial Position: 113
+Word: tell, Freq: 1, Initial Position: 27
+Word: telling, Freq: 1, Initial Position: 32
+Word: the, Freq: 7, Initial Position: 38
+Word: their, Freq: 1, Initial Position: 88
+Word: them, Freq: 1, Initial Position: 158
+Word: them,, Freq: 1, Initial Position: 28
+Word: themselves, Freq: 1, Initial Position: 134
+Word: they, Freq: 4, Initial Position: 91
+Word: think, Freq: 1, Initial Position: 30
+Word: to, Freq: 6, Initial Position: 16
+Word: touch, Freq: 1, Initial Position: 149
+Word: try, Freq: 2, Initial Position: 143
+Word: understand, Freq: 1, Initial Position: 199
+Word: waist,, Freq: 1, Initial Position: 118
+Word: walk, Freq: 1, Initial Position: 67
+Word: when, Freq: 1, Initial Position: 23
+Word: where, Freq: 1, Initial Position: 7
+Word: why, Freq: 1, Initial Position: 201
+Word: woman, Freq: 4, Initial Position: 60
+Word: woman,, Freq: 4, Initial Position: 63
+Word: women, Freq: 1, Initial Position: 5
+Word: wonder, Freq: 1, Initial Position: 6
+Word: wondered, Freq: 1, Initial Position: 136
+Word: you, Freq: 4, Initial Position: 75
+
+Total Number of Lines: 67
+Total Unique Lines: 50
+
+Line: , Freq: 5, Initial Position: 2
+Line: 'Cause I'm a woman , Freq: 1, Initial Position: 63
+Line: A hive of honey bees. , Freq: 1, Initial Position: 23
+Line: And the flash of my teeth, , Freq: 1, Initial Position: 26
+Line: And the joy in my feet. , Freq: 1, Initial Position: 28
+Line: And to a man, , Freq: 1, Initial Position: 19
+Line: But they can't touch , Freq: 1, Initial Position: 37
+Line: But when I start to tell them, , Freq: 1, Initial Position: 5
+Line: Fall down on their knees. , Freq: 1, Initial Position: 21
+Line: I don't shout or jump about , Freq: 1, Initial Position: 54
+Line: I say, , Freq: 4, Initial Position: 7
+Line: I walk into a room , Freq: 1, Initial Position: 17
+Line: I'm a woman , Freq: 3, Initial Position: 12
+Line: I'm not cute or built to suit a fashion model's size , Freq: 1, Initial Position: 4
+Line: It ought to make you proud. , Freq: 1, Initial Position: 57
+Line: It's in the arch of my back, , Freq: 1, Initial Position: 42
+Line: It's in the click of my heels, , Freq: 1, Initial Position: 59
+Line: It's in the reach of my arms , Freq: 1, Initial Position: 8
+Line: It's the fire in my eyes, , Freq: 1, Initial Position: 25
+Line: Just as cool as you please, , Freq: 1, Initial Position: 18
+Line: Just why my head's not bowed. , Freq: 1, Initial Position: 53
+Line: Maya Angelou, Freq: 1, Initial Position: 1
+Line: Men themselves have wondered , Freq: 1, Initial Position: 34
+Line: My inner mystery. , Freq: 1, Initial Position: 38
+Line: Now you understand , Freq: 1, Initial Position: 52
+Line: Or have to talk real loud. , Freq: 1, Initial Position: 55
+Line: Phenomenal Woman, Freq: 1, Initial Position: 0
+Line: Phenomenal woman, , Freq: 4, Initial Position: 14
+Line: Phenomenally. , Freq: 4, Initial Position: 13
+Line: Pretty women wonder where my secret lies. , Freq: 1, Initial Position: 3
+Line: That's me., Freq: 1, Initial Position: 66
+Line: That's me. , Freq: 3, Initial Position: 15
+Line: The bend of my hair, , Freq: 1, Initial Position: 60
+Line: The curl of my lips. , Freq: 1, Initial Position: 11
+Line: The fellows stand or , Freq: 1, Initial Position: 20
+Line: The grace of my style. , Freq: 1, Initial Position: 45
+Line: The need of my care, , Freq: 1, Initial Position: 62
+Line: The ride of my breasts, , Freq: 1, Initial Position: 44
+Line: The span of my hips, , Freq: 1, Initial Position: 9
+Line: The stride of my step, , Freq: 1, Initial Position: 10
+Line: The sun of my smile, , Freq: 1, Initial Position: 43
+Line: The swing in my waist, , Freq: 1, Initial Position: 27
+Line: Then they swarm around me, , Freq: 1, Initial Position: 22
+Line: They say they still can't see. , Freq: 1, Initial Position: 40
+Line: They think I'm telling lies. , Freq: 1, Initial Position: 6
+Line: They try so much , Freq: 1, Initial Position: 36
+Line: What they see in me. , Freq: 1, Initial Position: 35
+Line: When I try to show them , Freq: 1, Initial Position: 39
+Line: When you see me passing , Freq: 1, Initial Position: 56
+Line: the palm of my hand, , Freq: 1, Initial Position: 61
+
+Longest Word is 13 characters long:
+	Phenomenally.
+
+Longest Line is 53 characters long:
+	I'm not cute or built to suit a fashion model's size 

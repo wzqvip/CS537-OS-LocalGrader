@@ -1,0 +1,1 @@
+touch empty.txt; ./MADCounter -B empty.txt

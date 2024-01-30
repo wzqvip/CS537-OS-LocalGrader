@@ -1,0 +1,1 @@
+cp `pwd`/tests-madcounter/hailstones.txt .; ./MADCounter -o out19.txt -Ll -l -Lw -w -c -f hailstones.txt; cat out19.txt;

@@ -1,0 +1,1 @@
+cp `pwd`/tests-madcounter/hollow.txt .; ./MADCounter -f hollow.txt -o -c -w;

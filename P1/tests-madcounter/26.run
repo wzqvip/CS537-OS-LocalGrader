@@ -1,0 +1,1 @@
+cp `pwd`/tests-madcounter/hailstones.txt .; cp `pwd`/tests-madcounter/hollow.txt .; cp `pwd`/tests-madcounter/phenomenal.txt .; cp `pwd`/tests-madcounter/multipleBatchDiffInputToFile.txt .; ./MADCounter -B multipleBatchDiffInputToFile.txt; cat out26_1.txt; cat out26_2.txt; cat out26_3.txt;

@@ -1,0 +1,1 @@
+-f hailstones.txt -o out22.txt -c -w -l -Lw -Ll

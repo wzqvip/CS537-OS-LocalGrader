@@ -1,0 +1,2 @@
+Longest Line is 42 characters long:
+	White is the shining absence of all color 

@@ -1,0 +1,199 @@
+Total Number of Lines: 210
+Total Unique Lines: 196
+
+Line: , Freq: 15, Initial Position: 2
+Line:  , Freq: 1, Initial Position: 93
+Line: "Boom! Boom! Boom!", Freq: 1, Initial Position: 183
+Line: A Valentine heart,, Freq: 1, Initial Position: 113
+Line: A beautiful sight., Freq: 1, Initial Position: 10
+Line: A canary bird,, Freq: 1, Initial Position: 89
+Line: A carrot, , Freq: 1, Initial Position: 54
+Line: A circus cart., Freq: 1, Initial Position: 115
+Line: A duck's bill,, Freq: 1, Initial Position: 88
+Line: A feather from , Freq: 1, Initial Position: 55
+Line: A flame, , Freq: 1, Initial Position: 57
+Line: A high silk hat., Freq: 1, Initial Position: 181
+Line: A kite's tail , Freq: 1, Initial Position: 136
+Line: A leopard, a raven,, Freq: 1, Initial Position: 180
+Line: A parrot, , Freq: 1, Initial Position: 56
+Line: A ship's sail , Freq: 1, Initial Position: 135
+Line: A wedding veil , Freq: 1, Initial Position: 137
+Line: Also a mango. , Freq: 1, Initial Position: 71
+Line: An empty room., Freq: 1, Initial Position: 185
+Line: And a bruise, Freq: 1, Initial Position: 23
+Line: And a daffodil., Freq: 1, Initial Position: 90
+Line: And a puddle of milk , Freq: 1, Initial Position: 133
+Line: And breath is white , Freq: 1, Initial Position: 144
+Line: And in the fall , Freq: 1, Initial Position: 78
+Line: And lamplight would lack, Freq: 1, Initial Position: 207
+Line: And lily of the valley , Freq: 1, Initial Position: 132
+Line: And marigold. , Freq: 1, Initial Position: 65
+Line: And patent leather shoes, Freq: 1, Initial Position: 199
+Line: And patio grill,, Freq: 1, Initial Position: 191
+Line: And purple jell, Freq: 1, Initial Position: 22
+Line: And purple veils,, Freq: 1, Initial Position: 18
+Line: And some people's , Freq: 1, Initial Position: 140
+Line: And the part you can't remember , Freq: 1, Initial Position: 153
+Line: And things you'd like to forget, Freq: 1, Initial Position: 177
+Line: And vanilla ice cream , Freq: 1, Initial Position: 152
+Line: And want to hide., Freq: 1, Initial Position: 107
+Line: And when you're angry, Freq: 1, Initial Position: 110
+Line: And you can't tell by looking, Freq: 1, Initial Position: 173
+Line: Asters are purple,, Freq: 1, Initial Position: 11
+Line: Beautiful thing., Freq: 1, Initial Position: 41
+Line: Black is a cat,, Freq: 1, Initial Position: 179
+Line: Black is a feeling, Freq: 1, Initial Position: 194
+Line: Black is a pail of paving tar. , Freq: 1, Initial Position: 175
+Line: Black is a smokestack, Freq: 1, Initial Position: 178
+Line: Black is beauty, Freq: 1, Initial Position: 202
+Line: Black is charcoal, Freq: 1, Initial Position: 190
+Line: Black is jet, Freq: 1, Initial Position: 176
+Line: Black is kind, Freq: 1, Initial Position: 186
+Line: Black is licorice, Freq: 1, Initial Position: 198
+Line: Black is the night, Freq: 1, Initial Position: 171
+Line: Black is the print , Freq: 1, Initial Position: 200
+Line: Blazy and bright., Freq: 1, Initial Position: 95
+Line: Broken lace , Freq: 1, Initial Position: 160
+Line: But can you imagine, Freq: 1, Initial Position: 126
+Line: But if you don't it's, Freq: 1, Initial Position: 9
+Line: But the purple sound, Freq: 1, Initial Position: 31
+Line: By Mary O' Neill, Freq: 1, Initial Position: 1
+Line: Color of all., Freq: 1, Initial Position: 123
+Line: Definite pout., Freq: 1, Initial Position: 30
+Line: Diamonds and fireflies, Freq: 1, Initial Position: 208
+Line: Echoing in, Freq: 1, Initial Position: 184
+Line: Fire flicker red, Freq: 1, Initial Position: 109
+Line: Firecracker, fire engine, Freq: 1, Initial Position: 108
+Line: Gold are the stars;, Freq: 1, Initial Position: 47
+Line: Gold is a Metal, Freq: 1, Initial Position: 38
+Line: Gold is a ring, Freq: 1, Initial Position: 39
+Line: Gold is a very, Freq: 1, Initial Position: 40
+Line: Gold is the moon, Freq: 1, Initial Position: 46
+Line: Gold is the sunshine, Freq: 1, Initial Position: 42
+Line: Grandmother to pink., Freq: 1, Initial Position: 16
+Line: Hailstones and , Freq: 1, Initial Position: 138
+Line: Hailstones and Halibut Bones, Freq: 1, Initial Position: 0
+Line: Halibut bones , Freq: 1, Initial Position: 139
+Line: Hard to explain, Freq: 1, Initial Position: 195
+Line: If they couldn't lean against Black..., Freq: 1, Initial Position: 209
+Line: In a Roman sash. , Freq: 1, Initial Position: 69
+Line: In a country room , Freq: 1, Initial Position: 164
+Line: In a dream. , Freq: 1, Initial Position: 154
+Line: In a sunset that , Freq: 1, Initial Position: 60
+Line: In a thunderstorm., Freq: 1, Initial Position: 205
+Line: In its deepest form,, Freq: 1, Initial Position: 203
+Line: In the box., Freq: 1, Initial Position: 77
+Line: In the cherry bloom. , Freq: 1, Initial Position: 166
+Line: In the news., Freq: 1, Initial Position: 201
+Line: In the spring., Freq: 1, Initial Position: 34
+Line: Is a red, red, rose., Freq: 1, Initial Position: 100
+Line: Is rather put-out, Freq: 1, Initial Position: 28
+Line: Is the loveliest thing, Freq: 1, Initial Position: 32
+Line: Is white. , Freq: 1, Initial Position: 143
+Line: It covers up, Freq: 1, Initial Position: 187
+Line: It's a violet opening, Freq: 1, Initial Position: 33
+Line: It's bittersweet , Freq: 1, Initial Position: 64
+Line: It's sort of a great, Freq: 1, Initial Position: 15
+Line: Jupiter, Venus, Freq: 1, Initial Position: 48
+Line: Just before night, Freq: 1, Initial Position: 6
+Line: Light and thin, Freq: 1, Initial Position: 43
+Line: Like suffering but, Freq: 1, Initial Position: 196
+Line: Living without it?, Freq: 1, Initial Position: 127
+Line: Next day will tell, Freq: 1, Initial Position: 24
+Line: No doubt about it, Freq: 1, Initial Position: 125
+Line: Of a bonfire burning., Freq: 1, Initial Position: 81
+Line: Of a light foot walking , Freq: 1, Initial Position: 156
+Line: Of snowflakes falling , Freq: 1, Initial Position: 161
+Line: Of the fiery fox, , Freq: 1, Initial Position: 75
+Line: Of the tango. , Freq: 1, Initial Position: 73
+Line: On your face. , Freq: 1, Initial Position: 162
+Line: On your skin., Freq: 1, Initial Position: 45
+Line: Orange is a tiger lily,, Freq: 1, Initial Position: 53
+Line: Orange is an orange , Freq: 1, Initial Position: 70
+Line: Orange is bold , Freq: 1, Initial Position: 63
+Line: Orange is brave , Freq: 1, Initial Position: 62
+Line: Orange is dash , Freq: 1, Initial Position: 67
+Line: Orange is the fur , Freq: 1, Initial Position: 74
+Line: Orange is the music , Freq: 1, Initial Position: 72
+Line: Orange is the smell , Freq: 1, Initial Position: 80
+Line: Orange is zip , Freq: 1, Initial Position: 66
+Line: Out of sight. , Freq: 1, Initial Position: 149
+Line: Out of touch , Freq: 1, Initial Position: 148
+Line: Purple's more popular, Freq: 1, Initial Position: 13
+Line: Read is a feeling brave, Freq: 1, Initial Position: 96
+Line: Read is a hotness, Freq: 1, Initial Position: 104
+Line: Read is an Indian,, Freq: 1, Initial Position: 112
+Line: Red is a brick and a rubber band., Freq: 1, Initial Position: 103
+Line: Red is a great big, Freq: 1, Initial Position: 120
+Line: Red is a lipstick,, Freq: 1, Initial Position: 116
+Line: Red is a shout,, Freq: 1, Initial Position: 117
+Line: Red is a show off, Freq: 1, Initial Position: 124
+Line: Red is a signal, Freq: 1, Initial Position: 118
+Line: Red is a sunburn, Freq: 1, Initial Position: 98
+Line: Red is a sunset, Freq: 1, Initial Position: 94
+Line: Red is the giantest, Freq: 1, Initial Position: 122
+Line: Red runs through your head., Freq: 1, Initial Position: 111
+Line: Red squiggles out, Freq: 1, Initial Position: 101
+Line: Rubber ball., Freq: 1, Initial Position: 121
+Line: Saturn and Mars., Freq: 1, Initial Position: 49
+Line: Saying good-bye , Freq: 1, Initial Position: 59
+Line: Shocks the sky . , Freq: 1, Initial Position: 61
+Line: Some ladies purple, Freq: 1, Initial Position: 19
+Line: Spilled in an alley , Freq: 1, Initial Position: 134
+Line: Spot on your nose, sometimes red, Freq: 1, Initial Position: 99
+Line: Telephones. , Freq: 1, Initial Position: 141
+Line: Than you think...., Freq: 1, Initial Position: 14
+Line: That says: "Watch out!", Freq: 1, Initial Position: 119
+Line: The brightest crayon , Freq: 1, Initial Position: 76
+Line: The brightest stripe , Freq: 1, Initial Position: 68
+Line: The broken cup., Freq: 1, Initial Position: 189
+Line: The darkest cloud , Freq: 1, Initial Position: 204
+Line: The feeling of fun,, Freq: 1, Initial Position: 86
+Line: The hottest and most blinding light , Freq: 1, Initial Position: 142
+Line: The purple feeling, Freq: 1, Initial Position: 27
+Line: The purple look is a, Freq: 1, Initial Position: 29
+Line: The rundown street, , Freq: 1, Initial Position: 188
+Line: The soot spots on , Freq: 1, Initial Position: 192
+Line: The sound of black is , Freq: 1, Initial Position: 182
+Line: The trimming on, Freq: 1, Initial Position: 114
+Line: The wildest color you can name. , Freq: 1, Initial Position: 58
+Line: The window sill., Freq: 1, Initial Position: 193
+Line: The yolk of an egg,, Freq: 1, Initial Position: 87
+Line: Their fingernails., Freq: 1, Initial Position: 20
+Line: Then absence is white , Freq: 1, Initial Position: 147
+Line: There are purple shadows, Freq: 1, Initial Position: 17
+Line: There's purple ink., Freq: 1, Initial Position: 12
+Line: There's purple jam, Freq: 1, Initial Position: 21
+Line: Think of what starlight, Freq: 1, Initial Position: 206
+Line: Time is purple, Freq: 1, Initial Position: 5
+Line: Toward the end of May , Freq: 1, Initial Position: 165
+Line: Turn on the light, Freq: 1, Initial Position: 8
+Line: WHAT IS RED?, Freq: 1, Initial Position: 92
+Line: Warm as a muffin, Freq: 1, Initial Position: 44
+Line: What Is Black?, Freq: 1, Initial Position: 169
+Line: What is Gold?, Freq: 1, Initial Position: 36
+Line: What is Orange?, Freq: 1, Initial Position: 51
+Line: What is Purple? , Freq: 1, Initial Position: 3
+Line: What is White? , Freq: 1, Initial Position: 129
+Line: What is Yellow?, Freq: 1, Initial Position: 83
+Line: When most people, Freq: 1, Initial Position: 7
+Line: When the leaves are tuming , Freq: 1, Initial Position: 79
+Line: When there isn't a star, Freq: 1, Initial Position: 172
+Line: When you blow it out on a frosty night. , Freq: 1, Initial Position: 145
+Line: When you cut your hand., Freq: 1, Initial Position: 102
+Line: When you fell., Freq: 1, Initial Position: 26
+Line: When you're embarrassed, Freq: 1, Initial Position: 106
+Line: Where you are., Freq: 1, Initial Position: 174
+Line: Where you landed, Freq: 1, Initial Position: 25
+Line: Whispers talking. , Freq: 1, Initial Position: 158
+Line: White is a Dove , Freq: 1, Initial Position: 131
+Line: White is a pair of , Freq: 1, Initial Position: 157
+Line: White is marshmallow , Freq: 1, Initial Position: 151
+Line: White is the beautiful , Freq: 1, Initial Position: 159
+Line: White is the shining absence of all color , Freq: 1, Initial Position: 146
+Line: White is the sound , Freq: 1, Initial Position: 155
+Line: With all your might, Freq: 1, Initial Position: 97
+Line: Without the pain., Freq: 1, Initial Position: 197
+Line: Yellow is the color of the sun,, Freq: 1, Initial Position: 85
+Line: You can smell white , Freq: 1, Initial Position: 163
+Line: You get inside, Freq: 1, Initial Position: 105

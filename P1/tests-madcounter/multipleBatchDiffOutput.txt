@@ -1,0 +1,3 @@
+-f hailstones.txt -c -w -l -Lw -Ll
+-f hollow.txt -o out30.txt -c -w -l -Lw -Ll
+-f phenomenal.txt -c -w -l -Lw -Ll

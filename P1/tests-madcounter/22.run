@@ -1,0 +1,1 @@
+cp `pwd`/tests-madcounter/hailstones.txt .; cp `pwd`/tests-madcounter/singleBatchToFile.txt .; ./MADCounter -B singleBatchToFile.txt; cat out22.txt;

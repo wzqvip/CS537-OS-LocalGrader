@@ -1,0 +1,1 @@
+Correct batch mode w/Multiple line for different input files- should perform all analysis and print to STDOUT returning 0
