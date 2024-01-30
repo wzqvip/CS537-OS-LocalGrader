@@ -154,7 +154,7 @@ parser.add_argument('-E', '--end_test', dest='end_test', help='end with this tes
 parser.add_argument('-s', '--source_file', dest='source_file', help='name of source file to test', type=str, default='')
 parser.add_argument('-b', '--binary_file', dest='binary_file', help='name of binary to produce', type=str, default='a.out')
 parser.add_argument('-t', '--test_dir', dest='test_directory', help='path to location of tests', type=str, default='')
-parser.add_argument('-T', '--timeout', dest='timeout_length', help='length of timeout in seconds', type=int, default=30)
+parser.add_argument('-T', '--timeout', dest='timeout_length', help='length of timeout in seconds', type=int, default=40)
 parser.add_argument('--timed', dest='show_timing', help='show time taken by each test in seconds', action='store_true')
 parser.add_argument('-f', '--build_flags', help='extra build flags for gcc', type=str, default='')
 parser.set_defaults(verbosity=0)

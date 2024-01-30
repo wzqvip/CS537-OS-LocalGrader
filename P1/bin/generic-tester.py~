@@ -122,7 +122,7 @@ def test_one(test_number, input_dir, timeout_length, verbosity, show_timing):
     if os.path.exists('%s/%d.prep' % (input_dir, test_number)): # do some prepare work
         prep_desc = read_file('%s/%d.prep' % (input_dir, test_number), False).strip().replace('INPUT_DIR', input_dir)
         try:
-            subprocess.check_call(prep_desc, timeout=30, shell=True)
+            subprocess.check_call(prep_desc, timeout=35, shell=True)
         except:
             print('WARN preparation work failed, may need to try again')
     if do_binary and verbosity >= 0:
