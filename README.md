@@ -2,13 +2,15 @@
 
 Just clone things from the linux machine that can run on your machine. (But why I need this?)
 
+Use some unix-style machine like WSL on Windows.
+
+
 # P0
 
 XD
 
 # P1
-
-Use some unix-style machine like WSL on Windows.
+Copy your `MADCounter.c` to the P1 directory. And run the following command in that directory.
 
 ```
 ./test-madcounter.csh
