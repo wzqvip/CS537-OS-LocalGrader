@@ -1,0 +1,128 @@
+MADCOUNTER...
+TEST 0 - clean build (program should compile without errors or warnings)
+COMMAND gcc MADCounter.c -o MADCounter -Wall -Werror 
+RESULT passed
+
+TEST 1 - No arguments - should exit returning 1 and print usage message
+COMMAND ./MADCounter
+RESULT passed
+
+TEST 2 - No Input File Provided - -f not specificed, should exit returning 1 and print error message
+COMMAND ./MADCounter -o out.txt -c
+RESULT passed
+
+TEST 3 - No Input File Provided - -f specificed but isn't followed by a file name, should exit returning 1 and print error message
+COMMAND ./MADCounter -f -c -w
+RESULT passed
+
+TEST 4 - Input File Provided Can't be Opened - should exit returning 1 and print error message
+COMMAND ./MADCounter -f missing.txt -c -w
+RESULT passed
+
+TEST 5 - No file provide after -o - should exit returning 1 and print error message
+COMMAND cp `pwd`/tests-madcounter/hollow.txt .; ./MADCounter -f hollow.txt -o -c -w;
+RESULT passed
+
+TEST 6 - File provide after -f is empty - should exit returning 1 and print error message
+COMMAND touch empty.txt; ./MADCounter -f empty.txt -c -w
+RESULT passed
+
+TEST 7 - Invalid Flag - should exit returning 1 and print error message
+COMMAND cp `pwd`/tests-madcounter/hollow.txt .; ./MADCounter -f hollow.txt -P -c -w;
+RESULT passed
+
+TEST 8 - Multiple Possible Errors - No file provide after -o shoudl take priority over input file being empty - should exit returning 1 and print error message
+COMMAND touch empty.txt; ./MADCounter -f empty.txt -o -c -w
+RESULT passed
+
+TEST 9 - Correct char analysis - should perform character analysis and print to STDOUT returning 0
+COMMAND cp `pwd`/tests-madcounter/hollow.txt .; ./MADCounter -f hollow.txt -c;
+RESULT passed
+
+TEST 10 - Correct word analysis - should perform word analysis and print to STDOUT returning 0
+COMMAND cp `pwd`/tests-madcounter/hollow.txt .; ./MADCounter -f hollow.txt -w;
+RESULT passed
+
+TEST 11 - Correct longest word analysis w/ one longest word- should perform longest word analysis and print to STDOUT returning 0
+COMMAND cp `pwd`/tests-madcounter/singlelw.txt .; ./MADCounter -f singlelw.txt -Lw;
+RESULT passed
+
+TEST 12 - Correct longest word analysis w/ multiple longest words- should perform longest word analysis and print to STDOUT returning 0
+COMMAND cp `pwd`/tests-madcounter/multiplelw.txt .; ./MADCounter -f multiplelw.txt -Lw;
+RESULT passed
+
+TEST 13 - Correct line analysis - should perform line analysis and print to STDOUT returning 0
+COMMAND cp `pwd`/tests-madcounter/phenomenal.txt .; ./MADCounter -f phenomenal.txt -l;
+RESULT passed
+
+TEST 14 - Correct lngest line analysis w/ single longest line- should perform longest line analysis and print to STDOUT returning 0
+COMMAND cp `pwd`/tests-madcounter/phenomenal.txt .; ./MADCounter -f phenomenal.txt -Ll;
+RESULT passed
+
+TEST 15 - Correct lngest line analysis w/ multiple longest lines- should perform longest line analysis and print to STDOUT returning 0
+COMMAND cp `pwd`/tests-madcounter/multipleLl.txt .; ./MADCounter -f multipleLl.txt -Ll;
+RESULT passed
+
+TEST 16 - Correct all analysis types to STDOUT- should perform all analysis and print to STDOUT returning 0
+COMMAND cp `pwd`/tests-madcounter/hailstones.txt .; ./MADCounter -f hailstones.txt -c -w -l -Lw -Ll;
+RESULT passed
+
+TEST 17 - Correct all analysis types to output file- should perform all analysis and print to output file returning 0
+COMMAND cp `pwd`/tests-madcounter/hailstones.txt .; ./MADCounter -f hailstones.txt -o out17.txt -c -w -l -Lw -Ll; cat out17.txt;
+RESULT passed
+
+TEST 18 - Correct all analysis types to output file- should perform all analysis and print to output file returning 0
+COMMAND cp `pwd`/tests-madcounter/hailstones.txt .; ./MADCounter -o out18.txt -l -Ll -c -w -Lw -f hailstones.txt; cat out18.txt;
+RESULT passed
+
+TEST 19 - Correct all analysis types to output file- should perform all analysis and print to output file returning 0
+COMMAND cp `pwd`/tests-madcounter/hailstones.txt .; ./MADCounter -o out19.txt -Ll -l -Lw -w -c -f hailstones.txt; cat out19.txt;
+RESULT passed
+
+TEST 20 - Batch File Provided Can't be Opened - should exit returning 1 and print error message
+COMMAND ./MADCounter -B missing.txt
+RESULT passed
+
+TEST 21 - Batch File Provided is Empty - should exit returning 1 and print error message
+COMMAND touch empty.txt; ./MADCounter -B empty.txt
+RESULT passed
+
+TEST 22 - Correct batch mode w/Single line- should perform all analysis and print to output file returning 0
+COMMAND cp `pwd`/tests-madcounter/hailstones.txt .; cp `pwd`/tests-madcounter/singleBatchToFile.txt .; ./MADCounter -B singleBatchToFile.txt; cat out22.txt;
+RESULT passed
+
+TEST 23 - Correct batch mode w/Single line- should perform all analysis and print to STDOUT returning 0
+COMMAND cp `pwd`/tests-madcounter/hailstones.txt .; cp `pwd`/tests-madcounter/singleBatchToSTDOUT.txt .; ./MADCounter -B singleBatchToSTDOUT.txt;
+RESULT passed
+
+TEST 24 - Correct batch mode w/Multiple line- should perform all analysis and print to output file returning 0
+COMMAND cp `pwd`/tests-madcounter/hailstones.txt .; cp `pwd`/tests-madcounter/multipleBatchSameInputToFile.txt .; ./MADCounter -B multipleBatchSameInputToFile.txt; cat out24_1.txt; cat out24_2.txt; cat out24_3.txt; cat out24_4.txt; cat out24_5.txt; cat out24_6.txt;
+RESULT passed
+
+TEST 25 - Correct batch mode w/Multiple line- should perform all analysis and print to STDOUT returning 0
+COMMAND cp `pwd`/tests-madcounter/hailstones.txt .; cp `pwd`/tests-madcounter/multipleBatchSameInputToSTDOUT.txt .; ./MADCounter -B multipleBatchSameInputToSTDOUT.txt;
+RESULT passed
+
+TEST 26 - Correct batch mode w/Multiple line for different input files- should perform all analysis and print to output file returning 0
+COMMAND cp `pwd`/tests-madcounter/hailstones.txt .; cp `pwd`/tests-madcounter/hollow.txt .; cp `pwd`/tests-madcounter/phenomenal.txt .; cp `pwd`/tests-madcounter/multipleBatchDiffInputToFile.txt .; ./MADCounter -B multipleBatchDiffInputToFile.txt; cat out26_1.txt; cat out26_2.txt; cat out26_3.txt;
+RESULT passed
+
+TEST 27 - Correct batch mode w/Multiple line for different input files- should perform all analysis and print to STDOUT returning 0
+COMMAND cp `pwd`/tests-madcounter/hailstones.txt .; cp `pwd`/tests-madcounter/hollow.txt .; cp `pwd`/tests-madcounter/phenomenal.txt .; cp `pwd`/tests-madcounter/multipleBatchDiffInputToSTDOUT.txt .; ./MADCounter -B multipleBatchDiffInputToSTDOUT.txt;
+RESULT passed
+
+TEST 28 - Large Output File- should perform all analysis and print to output file returning 0
+COMMAND ./MADCounter -f `pwd`/tests-madcounter/shakespeare.txt -o out28.txt -c -w -Lw; cat out28.txt;
+RESULT passed
+
+TEST 29 - Batch mode w/errors- Should print errors and perform all analysis on lines with errors and print to STDOUT returning 0
+COMMAND cp `pwd`/tests-madcounter/hailstones.txt .; cp `pwd`/tests-madcounter/hollow.txt .; cp `pwd`/tests-madcounter/phenomenal.txt .; cp `pwd`/tests-madcounter/multipleBatchWErrors.txt .; ./MADCounter -B multipleBatchWErrors.txt;
+RESULT passed
+
+TEST 30 - Correct batch mode w/Multiple line- should perform all analysis and print to STDOUT returning 0
+COMMAND cp `pwd`/tests-madcounter/hailstones.txt .; cp `pwd`/tests-madcounter/hollow.txt .; cp `pwd`/tests-madcounter/phenomenal.txt .; cp `pwd`/tests-madcounter/multipleBatchDiffOutput.txt .; ./MADCounter -B multipleBatchDiffOutput.txt; cat out30.txt
+RESULT passed
+
+TEST SCORE: 30
+
+
