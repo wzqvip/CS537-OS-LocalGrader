@@ -1,0 +1,1 @@
+opening a file, and then calling the system call with that file descriptor

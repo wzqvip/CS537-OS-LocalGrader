@@ -1,0 +1,39 @@
+#!/bin/bash
+
+if [ -z "$1" ]
+then
+	echo "pregrade"
+	echo "Please provide which project to test"
+	echo "Usage:"
+	printf "\t$0 <project>\n"
+	printf "\t e.g., $0 P1\n"
+	exit 1
+fi
+
+set TEST_HOME = `pwd`
+
+PROJECT=$1
+TEST_HOME=${TEST_HOME}/$PROJECT
+TEST_SCRIPT=${TEST_HOME}/runtests
+CLEAN_SCRIPT=${TEST_HOME}/clean
+HANDIN_DIR=${TEST_HOME}
+
+if [ "$PROJECT" = "P2" ] || [ "$PROJECT" =  "P4" ] || [ "$PROJECT" = "P5" ]
+then
+	# Special case for xv6 projects
+	HANDIN_DIR=${HANDIN_DIR}/xv6-public
+fi
+
+echo "Running $PROJECT tests on handin directory for $USER"
+
+echo "cd $HANDIN_DIR"
+cd $HANDIN_DIR
+
+echo "Running $TEST_SCRIPT"
+$TEST_SCRIPT
+
+echo ""
+echo "Cleaning handin directory"
+$CLEAN_SCRIPT
+
+echo "Pregrade complete"

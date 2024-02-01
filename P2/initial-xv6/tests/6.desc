@@ -1,0 +1,1 @@
+checking return value with properly initialized buffer but fd does not point to any open file

@@ -4,12 +4,26 @@ Just clone things from the linux machine that can run on your machine. (But why 
 
 Use some unix-style machine like WSL on Windows.
 
+# Generic Grading
+
+```
+pregrade P{num}
+```
+
+num is the Project number.
+
+e.g.
+
+```
+./pregrade P1
+```
 
 # P0
 
 XD
 
 # P1
+
 Copy your `MADCounter.c` to the P1 directory. And run the following command in that directory.
 
 ```
@@ -26,4 +40,12 @@ To see complete output (and log to file).
 
 ```
 ./test-madcounter.csh -c -vv > log.txt
+```
+
+# P2
+
+Copy your code and replace these in the xv6-public.
+
+```
+
 ```

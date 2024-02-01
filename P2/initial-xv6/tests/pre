@@ -1,0 +1,15 @@
+~cs537-1/tests/P2/tester/xv6-edit-makefile.sh Makefile test_1,test_2,test_3,test_4,test_5,test_6,test_7,test_8,test_9,test_10,test_11 > Makefile.test
+cp -f ~cs537-1/tests/P2/initial-xv6/tests/test_1.c  test_1.c
+cp -f ~cs537-1/tests/P2/initial-xv6/tests/test_2.c  test_2.c
+cp -f ~cs537-1/tests/P2/initial-xv6/tests/test_3.c  test_3.c
+cp -f ~cs537-1/tests/P2/initial-xv6/tests/test_4.c  test_4.c
+cp -f ~cs537-1/tests/P2/initial-xv6/tests/test_5.c  test_5.c
+cp -f ~cs537-1/tests/P2/initial-xv6/tests/test_6.c  test_6.c
+cp -f ~cs537-1/tests/P2/initial-xv6/tests/test_7.c  test_7.c
+cp -f ~cs537-1/tests/P2/initial-xv6/tests/test_8.c  test_8.c
+cp -f ~cs537-1/tests/P2/initial-xv6/tests/test_9.c  test_9.c
+cp -f ~cs537-1/tests/P2/initial-xv6/tests/test_10.c test_10.c
+cp -f ~cs537-1/tests/P2/initial-xv6/tests/test_11.c test_11.c
+make -f Makefile.test clean
+make -f Makefile.test xv6.img
+make -f Makefile.test fs.img
