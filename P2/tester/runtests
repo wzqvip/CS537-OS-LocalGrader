@@ -146,7 +146,8 @@ usage () {
 # main program
 #
 verbose=0
-testdir="~cs537-1/tests/P2/initial-xv6/tests"
+# testdir="~cs537-1/tests/P2/initial-xv6/tests"
+testdir=../initial-xv6/tests
 contrunning=0
 skippre=0
 specific=""

@@ -47,5 +47,5 @@ To see complete output (and log to file).
 Copy your code and replace these in the xv6-public.
 
 ```
-
+./tester/runtests -d ./initial-xv6/tests
 ```
