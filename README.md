@@ -44,8 +44,14 @@ To see complete output (and log to file).
 
 # P2
 
-Copy your code and replace these in the xv6-public.
+Copy the *xv6-public* folder to P2
+
+Then go to your folder and execute the tests
 
 ```
-./tester/runtests -d ./initial-xv6/tests
+cd P2/xv6-public
+```
+
+```
+../tester/runtests -d ../initial-xv6/tests/ -c 
 ```
