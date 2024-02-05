@@ -55,3 +55,5 @@ cd P2/xv6-public
 ```
 ../tester/runtests -d ../initial-xv6/tests/ -c 
 ```
+
+You may need to create a new directory called `test-out` in public-xv6 dir. If you encounter problems.
