@@ -57,3 +57,5 @@ cd P2/xv6-public
 ```
 
 You may need to create a new directory called `test-out` in public-xv6 dir. If you encounter problems.
+
+**Note: There may be problems with test8. The user program is not included in the Makefile. I tried to include but it's too large for the xv6 system.**
