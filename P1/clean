@@ -1,32 +1,32 @@
-#! /bin/csh -f
-rm -f empty.txt
-rm -f hailstones.txt
-rm -f hollow.txt
-rm -f multipleBatchDiffInputToFile.txt
-rm -f multipleBatchDiffInputToFile.txt
-rm -f multipleBatchDiffInputToSTDOUT.txt
-rm -f multipleBatchDiffOutput.txt
-rm -f multipleBatchSameInputToFile.txt
-rm -f multipleBatchSameInputToSTDOUT.txt
-rm -f multipleBatchWErrors.txt
-rm -f multipleLl.txt
-rm -f multiplelw.txt
-rm -f out17.txt
-rm -f out18.txt
-rm -f out19.txt
-rm -f out22.txt
-rm -f out24_1.txt
-rm -f out24_2.txt
-rm -r out24_3.txt
-rm -f out24_4.txt
-rm -f out24_5.txt
-rm -f out24_6.txt
-rm -r out26_1.txt
-rm -r out26_2.txt
-rm -f out26_3.txt
-rm -f out28.txt
-rm -f out30.txt
-rm -f phenomenal.txt
-rm -f singleBatchToFile.txt
-rm -f singleBatchToSTDOUT.txt
-rm -f singlelw.txt
+# #! /bin/csh -f
+# rm -f empty.txt
+# rm -f hailstones.txt
+# rm -f hollow.txt
+# rm -f multipleBatchDiffInputToFile.txt
+# rm -f multipleBatchDiffInputToFile.txt
+# rm -f multipleBatchDiffInputToSTDOUT.txt
+# rm -f multipleBatchDiffOutput.txt
+# rm -f multipleBatchSameInputToFile.txt
+# rm -f multipleBatchSameInputToSTDOUT.txt
+# rm -f multipleBatchWErrors.txt
+# rm -f multipleLl.txt
+# rm -f multiplelw.txt
+# rm -f out17.txt
+# rm -f out18.txt
+# rm -f out19.txt
+# rm -f out22.txt
+# rm -f out24_1.txt
+# rm -f out24_2.txt
+# rm -r out24_3.txt
+# rm -f out24_4.txt
+# rm -f out24_5.txt
+# rm -f out24_6.txt
+# rm -r out26_1.txt
+# rm -r out26_2.txt
+# rm -f out26_3.txt
+# rm -f out28.txt
+# rm -f out30.txt
+# rm -f phenomenal.txt
+# rm -f singleBatchToFile.txt
+# rm -f singleBatchToSTDOUT.txt
+# rm -f singlelw.txt

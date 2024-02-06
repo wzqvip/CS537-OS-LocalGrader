@@ -10,7 +10,7 @@ then
 	exit 1
 fi
 
-set TEST_HOME = `pwd`
+TEST_HOME=`pwd`
 
 PROJECT=$1
 TEST_HOME=${TEST_HOME}/$PROJECT
