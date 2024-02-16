@@ -1,0 +1,13 @@
+history set 3
+echo 1
+echo 12
+echo 123
+history
+history set 0
+history
+echo 1
+history
+history set 2
+echo 1
+echo 12
+history

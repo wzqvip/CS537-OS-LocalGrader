@@ -1,0 +1,17 @@
+${PROMPT}1
+${PROMPT}12
+${PROMPT}123
+${PROMPT}1234
+${PROMPT}12345
+${PROMPT}1) echo 12345
+2) echo 1234
+3) echo 123
+4) echo 12
+5) echo 1
+${PROMPT}${PROMPT}1) echo 12345
+2) echo 1234
+3) echo 123
+${PROMPT}${PROMPT}1) echo 12345
+2) echo 1234
+3) echo 123
+${PROMPT}

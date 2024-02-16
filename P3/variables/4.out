@@ -1,0 +1,3 @@
+${PROMPT}bash: line 1: : command not found
+${PROMPT}${PROMPT}${CURR_DIR}
+${PROMPT}

@@ -1,0 +1,16 @@
+${PROMPT}${PROMPT}Linux
+${PROMPT}hello
+${PROMPT}Linux
+${PROMPT}hello
+${PROMPT}Linux
+${PROMPT}hello
+${PROMPT}Linux
+${PROMPT}hello
+${PROMPT}1) echo hello
+2) uname
+3) echo hello
+4) uname
+5) echo hello
+6) uname
+7) echo hello
+${PROMPT}

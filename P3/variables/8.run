@@ -1,0 +1,4 @@
+local a=initvalue
+echo $a
+local a=secondvalue
+echo $a

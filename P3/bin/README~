@@ -1,0 +1,11 @@
+Syntax for testing files: 
+- *.run
+  - Lines of command given to `wsh`. 
+  - Lines starting with `#` are comments and ignored. 
+  - Lines starting with `##` are executed in testing script. 
+  - Lines with format \xHH sends char with ascii HH (hex) to wsh
+  - Lines with format `##assertStat [S] [CMD]` asserts the process represented by CMD is in status S (see "man ps" for the characters for each status)
+- *.out, *.err
+  - Patterns like ${(.+)} is replaced by the environment variable named $1
+- *.desc
+  - Patterns like `Score: (\d+)` is recognized as the score assigned to this test

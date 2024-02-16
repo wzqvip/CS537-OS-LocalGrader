@@ -1,0 +1,1 @@
+cp ${test_dir}/batch1.wsh .; script -E never -qc './wsh batch1.wsh'

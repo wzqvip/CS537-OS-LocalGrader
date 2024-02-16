@@ -1,0 +1,5 @@
+echo that_line_2 | tee test2
+echo this_line_2 | tee -a test2
+cat test2 | grep that | wc
+##sleep 0.5
+exit

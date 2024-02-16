@@ -1,0 +1,4 @@
+sleep 3 | echo hello
+date +%s
+## sleep 1
+##assertStat [R] "sleep 3 | echo hello"

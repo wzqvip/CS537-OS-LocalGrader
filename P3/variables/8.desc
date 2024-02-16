@@ -1,0 +1,1 @@
+Testing that if the value of a variable is changed, and a command using that variable is executed from history, the command also changes. Score: 2

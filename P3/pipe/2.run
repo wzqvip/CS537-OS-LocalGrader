@@ -1,0 +1,9 @@
+echo this_line_1 | tee test1
+echo that_line_1 | tee -a test1
+cat test1 | grep this
+##sleep 0.5
+echo that_line_2 | tee test2
+echo this_line_2 | tee -a test2
+cat test2 | grep that
+##sleep 0.5
+exit

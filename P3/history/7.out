@@ -1,0 +1,12 @@
+${PROMPT}${PROMPT}1
+${PROMPT}12
+${PROMPT}123
+${PROMPT}1) echo 123
+2) echo 12
+3) echo 1
+${PROMPT}${PROMPT}${PROMPT}1
+${PROMPT}${PROMPT}${PROMPT}1
+${PROMPT}12
+${PROMPT}1) echo 12
+2) echo 1
+${PROMPT}

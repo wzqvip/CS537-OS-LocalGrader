@@ -1,0 +1,9 @@
+- path, fork/exec/wait -- ~ 44 pts
+exec: 14
+cd, exit: 7
+history: 12
+pipe: 12
+variables: 8
+
+TODO batch mode?
+

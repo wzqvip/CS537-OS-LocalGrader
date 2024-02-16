@@ -1,0 +1,17 @@
+cd /
+cd usr
+pwd
+
+cd /
+cd usr/
+pwd
+
+cd /
+cd usr/bin
+pwd
+
+cd /
+cd usr/bin/
+pwd
+
+exit

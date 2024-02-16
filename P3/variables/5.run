@@ -1,0 +1,5 @@
+bash -c "$myenvvar"
+export myenvvar=pwd
+bash -c "$myenvvar"
+export myenvvar=
+bash -c "$myenvvar"

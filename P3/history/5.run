@@ -1,0 +1,10 @@
+history set 7
+uname
+echo hello
+uname
+echo hello
+uname
+echo hello
+uname
+echo hello
+history

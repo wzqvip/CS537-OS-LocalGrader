@@ -1,0 +1,5 @@
+rm -f localpwd
+ln -s /bin/pwd localpwd
+export PATH=.
+localpwd
+pwd

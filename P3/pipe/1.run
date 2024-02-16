@@ -1,0 +1,2 @@
+echo hello world | grep hello
+exit
