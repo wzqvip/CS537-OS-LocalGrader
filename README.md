@@ -61,3 +61,11 @@ You may need to create a new directory called `test-out` in public-xv6 dir. If y
 **Note: There are problems with test8. The user program is not included in the Makefile. I tried to include but it's too large for the xv6 system.**
 
 -> I asked TA. The old version does have this problem. Then they reduce it from 12 to 8 tests. You may try to add `test_8.c(_test_8)` to your makefile and manually test it. I won't update this because this contains more test points and it's easy to test by yourself.
+
+
+
+# P3
+
+This is easy. Just go through the intructions and mark all the test points. A little bit complex.
+
+For me, go through the *.run* and *.out* is enough to pass the rest of this assignments.
