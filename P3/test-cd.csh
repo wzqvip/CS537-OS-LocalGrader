@@ -1,5 +1,5 @@
 #! /bin/csh -f
-set TEST_HOME = /p/course/cs537-oliphant/tests/P3
+set TEST_HOME = `pwd`
 set source_file = wsh.c
 set binary_file = wsh
 set bin_dir = ${TEST_HOME}/bin
