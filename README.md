@@ -62,10 +62,20 @@ You may need to create a new directory called `test-out` in public-xv6 dir. If y
 
 -> I asked TA. The old version does have this problem. Then they reduce it from 12 to 8 tests. You may try to add `test_8.c(_test_8)` to your makefile and manually test it. I won't update this because this contains more test points and it's easy to test by yourself.
 
-
-
 # P3
 
 This is easy. Just go through the intructions and mark all the test points. A little bit complex.
 
 For me, go through the *.run* and *.out* is enough to pass the rest of this assignments.
+
+
+Copy your wsh.c  to P3 folder and execute the followings:
+
+```
+./test-cd.csh
+./test-exec.csh
+./test-variables.csh
+./test-history.csh
+./test-pipe.csh
+./test-batch.csh
+```
