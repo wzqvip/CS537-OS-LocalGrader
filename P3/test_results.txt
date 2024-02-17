@@ -1,0 +1,150 @@
+Running tests...
+Running batch tests...
+TEST 1 - Batch mode for build-in commands. Score: 2
+RESULT passed
+
+TEST 2 - Batch mode for external commands. Score: 2
+RESULT passed
+
+Running cd tests...
+WSH...
+TEST 0 - clean build (program should compile without errors or warnings)
+RESULT passed
+
+TEST 1 - Basic cd usage: absolute path. Score: 2
+RESULT passed
+
+TEST 2 - Basic cd usage: relative path.  Score: 2
+RESULT passed
+
+TEST 3 - Special directory entries ".", "..".  Score: 2
+RESULT passed
+
+TEST 4 - The shell should print a prompt and exit when commanded. Score: 1
+RESULT passed
+
+TEST SCORE: 7 / 7
+
+
+Running exec tests...
+WSH...
+TEST 0 - clean build (program should compile without errors or warnings)
+RESULT passed
+
+TEST 1 - Basic exec.  Score: 4
+RESULT passed
+
+TEST 2 - Exec with multiple args. Score: 4
+RESULT passed
+
+TEST 3 - Multiple execs. Points: 4
+RESULT passed
+
+TEST 4 - Handle exec error for non-command. Score: 2
+RESULT passed
+
+TEST SCORE: 11 / 11
+
+
+Running history tests...
+WSH...
+TEST 0 - clean build (program should compile without errors or warnings)
+RESULT passed
+
+TEST 1 - Empty history on new shell. Score: 2
+RESULT passed
+
+TEST 2 - One command successfully added to history. Score: 2
+RESULT passed
+
+TEST 3 - Built-in command not added to history. Score: 2
+RESULT passed
+
+TEST 4 - History stores five items by default. Score: 2
+RESULT passed
+
+TEST 5 - History size may be increased. Score: 1
+RESULT passed
+
+TEST 6 - Resizing history to smaller size truncates history. Score: 1
+RESULT passed
+
+TEST 7 - Resizing history to 0 and increasing size again clears the history. Score: 1
+RESULT failed
+standard output does not match expected
+expected: [wsh> wsh> 1
+wsh> 12
+wsh> 123
+wsh> 1) echo 123
+2) echo 12
+3) echo 1
+wsh> wsh> wsh> 1
+wsh> wsh> wsh> 1
+wsh> 12
+wsh> 1) echo 12
+2) echo 1
+wsh> ]
+got:      [wsh> wsh> 1
+wsh> 12
+wsh> 123
+wsh> 1) echo 123
+2) echo 12
+3) echo 1
+wsh> Allocation error
+]
+
+
+TESTING HALTED (use -c or --continue to keep going if you like)
+Running pipe tests...
+WSH...
+TEST 0 - clean build (program should compile without errors or warnings)
+RESULT passed
+
+TEST 1 - Basic pipe.  Score: 5
+RESULT passed
+
+TEST 2 - Basic pipe (2).  Score: 5
+RESULT passed
+
+TEST 3 - Chained pipe.  Score: 2
+RESULT passed
+
+TEST 4 - Shell should wait for all children in pipe to complete. Score: 1
+RESULT passed
+
+TEST SCORE: 13 / 13
+
+
+Running variables tests...
+WSH...
+TEST 0 - clean build (program should compile without errors or warnings)
+RESULT passed
+
+TEST 1 - Testing that initially no local vars are set. Score: 1
+RESULT passed
+
+TEST 2 - Testing the setting of a local variable. Score: 1
+RESULT passed
+
+TEST 3 - Testing the unsetting of a local variable. Score: 1
+RESULT passed
+
+TEST 4 - Testing the setting of an environment variable. Score: 1
+RESULT passed
+
+TEST 5 - Testing the unsetting of an environment variable. Score: 1
+RESULT passed
+
+TEST 6 - Testing variable substitution including unset vars and precedence. Score: 3
+RESULT passed
+
+TEST 7 - Setting environment variable to current working directory, executing something in the current working directory, and then executing something in /usr/bin. Score: 1
+RESULT passed
+
+TEST 8 - Testing that if the value of a variable is changed, and a command using that variable is executed from history, the command also changes. Score: 2
+RESULT passed
+
+TEST SCORE: 11 / 11
+
+
+All tests completed.

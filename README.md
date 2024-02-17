@@ -68,7 +68,6 @@ This is easy. Just go through the intructions and mark all the test points. A li
 
 For me, go through the *.run* and *.out* is enough to pass the rest of this assignments.
 
-
 Copy your wsh.c  to P3 folder and execute the followings:
 
 ```
@@ -79,3 +78,9 @@ Copy your wsh.c  to P3 folder and execute the followings:
 ./test-pipe.csh
 ./test-batch.csh
 ```
+
+There's no runtests until 2024/2/27. So I made a simple grader.
+
+![1708203154682](image/README/1708203154682.png)
+
+First, `./runall` to run all the tests and log the grade to `test_results.txt`, then use the `grader.py` to see general scores.

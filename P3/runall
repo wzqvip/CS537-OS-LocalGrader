@@ -1,0 +1,34 @@
+#!/bin/csh
+
+# Set the base directory for the tests
+set TEST_HOME = `pwd`
+
+# Uncomment the following lines if you need to compile source code before running tests
+#echo "Compiling source code..."
+#gcc -Wall -Werror -o wsh wsh.c
+
+# Redirecting output to a file
+set OUTPUT_FILE = "$TEST_HOME/test_results.txt"
+
+echo "Running tests..." > $OUTPUT_FILE
+
+# Running tests for each category and appending results to the output file
+echo "Running batch tests..." >> $OUTPUT_FILE
+./test-batch.csh >> $OUTPUT_FILE
+
+echo "Running cd tests..." >> $OUTPUT_FILE
+./test-cd.csh >> $OUTPUT_FILE
+
+echo "Running exec tests..." >> $OUTPUT_FILE
+./test-exec.csh >> $OUTPUT_FILE
+
+echo "Running history tests..." >> $OUTPUT_FILE
+./test-history.csh >> $OUTPUT_FILE
+
+echo "Running pipe tests..." >> $OUTPUT_FILE
+./test-pipe.csh >> $OUTPUT_FILE
+
+echo "Running variables tests..." >> $OUTPUT_FILE
+./test-variables.csh >> $OUTPUT_FILE
+
+echo "All tests completed." >> $OUTPUT_FILE
