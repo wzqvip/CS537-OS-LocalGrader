@@ -1,5 +1,7 @@
 Running tests...
 Running batch tests...
+TEST SCORE: 4 / 4
+
 TEST 1 - Batch mode for build-in commands. Score: 2
 RESULT passed
 

@@ -14,7 +14,7 @@ echo "Running tests..." > $OUTPUT_FILE
 
 # Running tests for each category and appending results to the output file
 echo "Running batch tests..." >> $OUTPUT_FILE
-./test-batch.csh >> $OUTPUT_FILE
+./test-batch.csh >>& $OUTPUT_FILE
 
 echo "Running cd tests..." >> $OUTPUT_FILE
 ./test-cd.csh >> $OUTPUT_FILE
