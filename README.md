@@ -81,6 +81,6 @@ Copy your wsh.c  to P3 folder and execute the followings:
 
 There's no runtests until 2024/2/27. So I made a simple grader.
 
-![1708203154682](image/README/1708203154682.png)
+![1708203664181](image/README/1708203664181.png)
 
 First, `./runall` to run all the tests and log the grade to `test_results.txt`, then use the `grader.py` to see general scores.
