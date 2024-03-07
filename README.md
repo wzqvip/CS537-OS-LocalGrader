@@ -84,3 +84,22 @@ There's no runtests until 2024/2/27. So I made a simple grader.
 ![1708203664181](image/README/1708203664181.png)
 
 First, `./runall` to run all the tests and log the grade to `test_results.txt`, then use the `grader.py` to see general scores.
+
+
+# P4
+
+copy your xv6-public to P4 dir.
+
+Then open terminal in xv6-public. Then execute
+
+```
+../runtests ../ -c
+```
+
+../runtests is the script in the P4 dir.
+
+../ is where the tests locates.
+
+-c is to run all ignore fail.
+
+***For some reason, when it execute fail, the test still pass. 2024.3.7***
