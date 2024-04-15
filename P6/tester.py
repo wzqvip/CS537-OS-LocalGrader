@@ -327,7 +327,7 @@ def compile():
 
 test_path = os.getcwd() + '/testdir'
 src_path = os.getcwd()
-test_base = '/home/cs537-1/tests/P6'
+test_base = '/`pwd`'
 workload_base = test_base + '/workloads/'
 
 # Copy files and prepare testing enviornment

@@ -85,7 +85,6 @@ There's no runtests until 2024/2/27. So I made a simple grader.
 
 First, `./runall` to run all the tests and log the grade to `test_results.txt`, then use the `grader.py` to see general scores.
 
-
 # P4
 
 copy your xv6-public to P4 dir.
@@ -103,3 +102,26 @@ Then open terminal in xv6-public. Then execute
 -c is to run all ignore fail.
 
 ***For some reason, when it execute fail, the test still pass. 2024.3.7***
+
+
+# P5
+
+I didn't do that. Only a copy of it.
+
+
+# P6
+
+I decided not to modify the `runtests` . It just run a python.
+
+
+Copy your code or folder anywhere, in that folder, run
+
+```
+$path_to_P6tester/tester.py
+```
+
+e.g.
+
+```
+taco@machine:/xxx/CS537-OS-LocalGrader/P6_code$ ../P6/runtests
+```
