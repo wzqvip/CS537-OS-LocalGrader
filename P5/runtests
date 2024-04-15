@@ -1,0 +1,6 @@
+#!/bin/bash
+base=/home/cs537-1/tests/P5
+cp $base/test_hook/grade.c .
+python3 $base/p5.py --test-path $base $@ | tee runtests.log
+cp $base/test_hook/empty_grade.c grade.c
+exit $?
