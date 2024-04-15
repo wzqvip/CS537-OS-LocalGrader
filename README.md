@@ -103,16 +103,13 @@ Then open terminal in xv6-public. Then execute
 
 ***For some reason, when it execute fail, the test still pass. 2024.3.7***
 
-
 # P5
 
 I didn't do that. Only a copy of it.
 
-
 # P6
 
 I decided not to modify the `runtests` . It just run a python.
-
 
 Copy your code or folder anywhere, in that folder, run
 
@@ -125,3 +122,13 @@ e.g.
 ```
 taco@machine:/xxx/CS537-OS-LocalGrader/P6_code$ ../P6/runtests
 ```
+
+I'm using WSL so the tests are all time out on my machine.
+
+
+2024/4/15 12:38. Seems they are updating the grade script, but they made an error on the path.
+
+
+Cleaning handin directory
+/home/cs537-1/tests/pregrade: line 35: /p/course/cs537-oliphant/tests/P6/clean: No such file or directory
+Pregrade complete
